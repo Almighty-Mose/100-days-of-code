@@ -29,3 +29,11 @@
 **Thoughts**: Went from a hard coded select input to a DRY, abstract, Select Component. The meat of the form is well on it's way to completion!
 
 **Link To Work**: [Date Planner App](http://github.com/Almighty-Mose/date-planner)
+
+### Day 4: May 5, 2019
+
+**Today's Progress**: Studied CSS and Visual Design
+
+**Thoughts**: I'm excited to finally be getting the info I've needed to build good looking UI, which is something I feel I've been lacking. Gonna keep on this!
+
+**Link To Work**: [FreeCodeCamp (Applied Visual Design)](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
