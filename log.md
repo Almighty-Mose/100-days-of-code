@@ -30,7 +30,7 @@
 
 **Link To Work**: [Date Planner App](http://github.com/Almighty-Mose/date-planner)
 
-### Day 4: May 5, 2019
+### Day 5: May 5, 2019
 
 **Today's Progress**: Studied CSS and Visual Design
 
