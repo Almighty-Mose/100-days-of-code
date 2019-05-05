@@ -16,7 +16,7 @@
 
 **Link to work:** [Date Planner App](http://github.com/Almighty-Mose/date-planner)
 
-### Day 3: May 2, Thursday.
+### Day 3: May 3, Thursday.
 
 **Today's Progress**: Studied some algorithms!
 
