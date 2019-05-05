@@ -16,3 +16,16 @@
 
 **Link to work:** [Date Planner App](http://github.com/Almighty-Mose/date-planner)
 
+### Day 3: May 2, Thursday.
+
+**Today's Progress**: Studied some algorithms!
+
+**Thoughts**: Looked into various algos, Dijkstra's, bubble sort, merge sort.
+
+### Day 4: May 4, 2019
+
+**Today's Progress**: Built a Select component.
+
+**Thoughts**: Went from a hard coded select input to a DRY, abstract, Select Component. The meat of the form is well on it's way to completion!
+
+**Link To Work**: [Date Planner App](http://github.com/Almighty-Mose/date-planner)
